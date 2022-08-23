@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MaxiAirforce</h1>
+<h1 align="center">Hi 👋, I'm Wayzon !</h1>
 <h3 align="center">A passionate Frontend and Backend developer !</h3>
 
 <h3 align="left">Connect with me:</h3>
