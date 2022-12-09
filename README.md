@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Wayzon !</h1>
 <h3 align="center">A passionate Frontend and Backend developer !</h3>
 <h1>Discord :</h1>
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/499977210782941195)](https://discord.com/users/499977210782941195)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/maxiairforce" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="maxiairforce" height="30" width="40" /></a>
