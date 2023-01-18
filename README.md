@@ -5,7 +5,6 @@
 
 <h2> Tools </h2>
 <a href = https://github.com/Nico105?tab=repositories&q=&type=&language=javascript&sort= > <img width = '32px' src = 'https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-'https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
 <a href = https://github.com/Nico105?tab=repositories&q=&type=&language=html&sort= > <img width = '32px' src = 'https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
 <a href = https://github.com/Nico105?tab=repositories&q=&type=&language=css&sort= > <img width = '32px' src = 'https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
 <a href = https://github.com/Nico105?tab=repositories&q=&type=&language=nodejs&sort= > <img width = '32px' src = 'https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>
