@@ -10,5 +10,6 @@
 <a href = https://github.com/Nico105?tab=repositories&q=&type=&language=nodejs&sort= > <img width = '32px' src = 'https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>
 <a href = https://github.com/Nico105?tab=repositories&q=&type=&language=mongodb&sort= > <img width = '32px' src = 'https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'> </a>
 <a href = https://github.com/Nico105?tab=repositories&q=&type=&language=photoshop&sort= > <img width = '32px' src = 'https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/photoshop.svg'> </a>
-<br>
+
+
 [![github-views](https://komarev.com/ghpvc/?username=MaxiAirforce&color=brightgreen)](https://github.com/MaxiAirforce)
