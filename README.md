@@ -11,7 +11,7 @@ Hey I am Wayzon an experienced web developer and Discord bot developer with a pa
 <a href = https://github.com/Nico105?tab=repositories&q=&type=&language=mongodb&sort= > <img width = '32px' src = 'https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'> </a>
 <a href = https://github.com/Nico105?tab=repositories&q=&type=&language=photoshop&sort= > <img width = '32px' src = 'https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/photoshop.svg'> </a>
 
-![Nico105](https://github-readme-stats.vercel.app/api?username=MaxiAirforce&count_private=true&show_icons=true&theme=radical&title_color=ff7700)
+![Nico105](https://github-readme-stats.vercel.app/api?username=MaxiAirforce&count_private=true&show_icons=true&theme=radical&title_color=#5865F2)
 
 <h2> 🔗 Discord</h2>
 
