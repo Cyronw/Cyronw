@@ -13,6 +13,6 @@ Hey I am Wayzon an experienced web developer and Discord bot developer with a pa
 
 <h2>Stats</h2>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxiAirforce)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxiAirforce&show_icons=true&theme=radical)
 
 [![github-views](https://komarev.com/ghpvc/?username=MaxiAirforce&color=brightgreen)](https://github.com/MaxiAirforce)
