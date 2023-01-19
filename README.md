@@ -12,6 +12,7 @@ Hey I am Wayzon an experienced web developer and Discord bot developer with a pa
 <a href = https://github.com/Nico105?tab=repositories&q=&type=&language=photoshop&sort= > <img width = '32px' src = 'https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/photoshop.svg'> </a>
 
 <h2>Stats</h2>
-[Wayzon GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxiAirforce&show_icons=true&theme=radical)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxiAirforce)](https://github.com/anuraghazra/github-readme-stats)
 
 [![github-views](https://komarev.com/ghpvc/?username=MaxiAirforce&color=brightgreen)](https://github.com/MaxiAirforce)
