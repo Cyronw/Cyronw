@@ -22,6 +22,9 @@ Hey I am Wayzon an experienced web developer and Discord bot developer with a pa
 
 <h2 align="center"> 🔗 Discord</h2>
 <br>
+<p align="center">
 <img align="center" src="https://lanyard-profile-readme.vercel.app/api/499977210782941195">
-
+</p>
+<p align="center">
 [![github-views](https://komarev.com/ghpvc/?username=MaxiAirforce&color=brightgreen)](https://github.com/MaxiAirforce)
+  </p>
