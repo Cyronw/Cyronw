@@ -13,7 +13,9 @@ Hey I am Wayzon an experienced web developer and Discord bot developer with a pa
 <a href = https://github.com/Nico105?tab=repositories&q=&type=&language=photoshop&sort= > <img width = '32px' src = 'https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/photoshop.svg'> </a>
 <br>
 <h2> 📊 Stats</h2>
-
+<p align="center">
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=MaxiAirforce&include_all_commits=true&count_private=true&&show_icons=true&theme=tokyonight" width="400"></a> 
+  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MaxiAirforce&count_private=true&show_icons=true&theme=tokyonight" width="400"></a>
 ![Wayzon](https://github-readme-stats.vercel.app/api?username=MaxiAirforce&count_private=true&show_icons=true&theme=tokyonight)
 
 <h2> 🔗 Discord</h2>
