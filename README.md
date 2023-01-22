@@ -26,3 +26,8 @@
 <p align="center">
 <img align="center" src="https://lanyard-profile-readme.vercel.app/api/499977210782941195">
 </p>
+<div align="center">
+  
+[![github-views](https://komarev.com/ghpvc/?username=MaxiAirforce&color=brightgreen)](https://github.com/MaxiAirforce)
+  
+</div>
