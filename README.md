@@ -5,12 +5,14 @@ Hey I am Wayzon an experienced web developer and Discord bot developer with a pa
 
 <h2 align="center"> 💻 Tools </h2>
 <br>
+<div align="center">
 <a href = https://github.com/Nico105?tab=repositories&q=&type=&language=javascript&sort= > <img width = '32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <a href = https://github.com/Nico105?tab=repositories&q=&type=&language=html&sort= > <img width = '32px' src = 'https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
 <a href = https://github.com/Nico105?tab=repositories&q=&type=&language=css&sort= > <img width = '32px' src = 'https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
 <a href = https://github.com/Nico105?tab=repositories&q=&type=&language=nodejs&sort= > <img width = '32px' src = 'https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>
 <a href = https://github.com/Nico105?tab=repositories&q=&type=&language=mongodb&sort= > <img width = '32px' src = 'https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'> </a>
 <a href = https://github.com/Nico105?tab=repositories&q=&type=&language=photoshop&sort= > <img width = '32px' src = 'https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/photoshop.svg'> </a>
+  </div>
 <br>
 <h2 align="center"> 📊 Stats</h2>
 <p align="center">
@@ -18,7 +20,7 @@ Hey I am Wayzon an experienced web developer and Discord bot developer with a pa
   <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MaxiAirforce&count_private=true&show_icons=true&theme=tokyonight" width="400"></a>
 
 
-<h2> 🔗 Discord</h2>
+<h2 align="center"> 🔗 Discord</h2>
 <br>
 <img src="https://lanyard-profile-readme.vercel.app/api/499977210782941195">
 
