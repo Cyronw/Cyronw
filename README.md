@@ -7,7 +7,7 @@
 <h2 align="center"> 💻 Tools </h2>
 <br>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,php,mongodb,vscode,git,cpp,bots" alt="skill badges icons" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,py,mongodb,vscode,git,cpp,bots" alt="skill badges icons" />
   </div>
 <br>
 <h2 align="center"> 📊 Stats</h2>
