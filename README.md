@@ -13,11 +13,11 @@ Hey I am Wayzon an experienced web developer and Discord bot developer with a pa
 <a href = https://github.com/Nico105?tab=repositories&q=&type=&language=photoshop&sort= > <img width = '32px' src = 'https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/photoshop.svg'> </a>
 <br>
 <h2> 📊 Stats</h2>
-<br>
+
 ![Wayzon](https://github-readme-stats.vercel.app/api?username=MaxiAirforce&count_private=true&show_icons=true&theme=tokyonight)
-<br>
+
 <h2> 🔗 Discord</h2>
 <br>
 <img src="https://lanyard-profile-readme.vercel.app/api/499977210782941195">
-<br>
+
 [![github-views](https://komarev.com/ghpvc/?username=MaxiAirforce&color=brightgreen)](https://github.com/MaxiAirforce)
