@@ -7,12 +7,7 @@
 <h2 align="center"> 💻 Tools </h2>
 <br>
 <div align="center">
-<a href = https://github.com/Nico105?tab=repositories&q=&type=&language=javascript&sort= > <img width = '32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href = https://github.com/Nico105?tab=repositories&q=&type=&language=html&sort= > <img width = '32px' src = 'https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<a href = https://github.com/Nico105?tab=repositories&q=&type=&language=css&sort= > <img width = '32px' src = 'https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href = https://github.com/Nico105?tab=repositories&q=&type=&language=nodejs&sort= > <img width = '32px' src = 'https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>
-<a href = https://github.com/Nico105?tab=repositories&q=&type=&language=mongodb&sort= > <img width = '32px' src = 'https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'> </a>
-<a href = https://github.com/Nico105?tab=repositories&q=&type=&language=photoshop&sort= > <img width = '32px' src = 'https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/photoshop.svg'> </a>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,py,mongodb,vscode,git,cpp,bots" alt="skill badges icons" />
   </div>
 <br>
 <h2 align="center"> 📊 Stats</h2>
