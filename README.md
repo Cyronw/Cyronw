@@ -23,6 +23,6 @@
 </p>
 <div align="center">
   
-[![github-views](https://komarev.com/ghpvc/?username=MaxiAirforce&color=brightgreen)](https://github.com/MaxiAirforce)
+[![github-views](https://komarev.com/ghpvc/?username=Zartexw&color=brightgreen)](https://github.com/Zartexw)
   
 </div>
