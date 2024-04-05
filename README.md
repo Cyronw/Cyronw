@@ -12,8 +12,8 @@
 <br>
 <h2 align="center"> 📊 Stats :</h2>
 <p align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=MaxiAirforce&include_all_commits=true&count_private=true&&show_icons=true&theme=tokyonight" width="400"></a> 
-  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MaxiAirforce&count_private=true&show_icons=true&theme=tokyonight" width="400"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Zartexw&include_all_commits=true&count_private=true&&show_icons=true&theme=tokyonight" width="400"></a> 
+  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Zartexw&count_private=true&show_icons=true&theme=tokyonight" width="400"></a>
 
 
 <h2 align="center"> 🔗 Discord :</h2>
